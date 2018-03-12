@@ -1,6 +1,7 @@
 # mkclient
 client of mkblock
-- It's for "MKBLOCK". 
+- It's for "MKBLOCK". Before you run mkclient, mkblock should be running. please install mkblock first.
+- Download "mkblock" : https//github.com/maior/mkblock.git
 
 Built With
 - Intellij IDEA
