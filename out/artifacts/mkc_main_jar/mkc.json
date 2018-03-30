@@ -1,0 +1,10 @@
+{
+    "name": "mkblock client",
+    "version": "0.1.0",
+    "network": {
+        "ipaddress": "127.0.0.1",
+        "port": "8788"
+    },
+    "datapath": "/User/maior"
+
+}

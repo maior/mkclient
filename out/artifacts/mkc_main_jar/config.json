@@ -1,0 +1,28 @@
+{
+    "programinfo": {
+        "version":"0.1.0",
+        "license":"MIT License", 
+        "name":"mkblock client", 
+        "author":"Kenneth Kwon"
+    },
+
+    "env": {
+        "init":"init.py", 
+        "path": "/Users/maior/IdeaProjects/",
+        "project":"nodeweb",
+        "source_folder":"src", 
+        "lang":"python3", 
+        "main":"index.js",
+        "contract": "contract.py",
+        "compile":"compile.py"
+    },
+
+    "network": { 
+        "ip": "localhost",
+        "port": "8788"
+    },
+    "block": {
+        "address": "C1GKVNWCM3EZ3V3MK24ZT2FLRV6BQDO6CFC3Y3",
+        "taxi": "200000"
+    }
+}
